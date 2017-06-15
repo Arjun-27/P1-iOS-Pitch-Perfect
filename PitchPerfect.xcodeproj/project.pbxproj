@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DC300B721EEC83A10002CA25 /* PlaySoundsViewController-Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC300B711EEC83A10002CA25 /* PlaySoundsViewController-Audio.swift */; };
 		DC36043B1EEB180D008967E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC36043A1EEB180D008967E5 /* AppDelegate.swift */; };
 		DC36043D1EEB180D008967E5 /* RecordSoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC36043C1EEB180D008967E5 /* RecordSoundsViewController.swift */; };
 		DC3604401EEB180D008967E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC36043E1EEB180D008967E5 /* Main.storyboard */; };
@@ -29,7 +28,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		DC300B711EEC83A10002CA25 /* PlaySoundsViewController-Audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlaySoundsViewController-Audio.swift"; sourceTree = "<group>"; };
 		DC3604371EEB180D008967E5 /* PitchPerfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PitchPerfect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC36043A1EEB180D008967E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DC36043C1EEB180D008967E5 /* RecordSoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordSoundsViewController.swift; sourceTree = "<group>"; };
@@ -91,7 +89,6 @@
 				DC3604491EEB180D008967E5 /* Info.plist */,
 				DC3604411EEB180D008967E5 /* PitchPerfect.xcdatamodeld */,
 				DC801E3E1EEB519200F42177 /* PlaySoundsViewController.swift */,
-				DC300B711EEC83A10002CA25 /* PlaySoundsViewController-Audio.swift */,
 			);
 			path = PitchPerfect;
 			sourceTree = "<group>";
@@ -211,7 +208,6 @@
 				DC36043D1EEB180D008967E5 /* RecordSoundsViewController.swift in Sources */,
 				DC3604431EEB180D008967E5 /* PitchPerfect.xcdatamodeld in Sources */,
 				DC801E3F1EEB519200F42177 /* PlaySoundsViewController.swift in Sources */,
-				DC300B721EEC83A10002CA25 /* PlaySoundsViewController-Audio.swift in Sources */,
 				DC36043B1EEB180D008967E5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
